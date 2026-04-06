@@ -1,3 +1,59 @@
 # HyprJos-Dots
-Hola, esta es mi configuracion minima de Hyprland
-<img width="1365" height="769" alt="1762500268_screenshot" src="https://github.com/user-attachments/assets/a65c7f19-60b1-42ca-844d-b6a9e32d39bc" />
+Setup basado en Hyprland, simple y funcional.
+
+![Screenshot 1](screenshots/1769293490_screenshot.png)
+
+![Screenshot 2](screenshots/1773920614_screenshot.png)
+
+## Dependencias requeridas
+
+- PipeWire (alsa, pulse, jack)
+- wireplumber
+- pavucontrol
+- power-profiles-daemon
+- auto-cpufreq
+- networkmanager + applet
+- nm-connection-editor
+- netctl
+- hyprland, hypridle, hyprlock, hyprpaper
+- waybar, wofi, kitty
+- thunar, mousepad
+- nwg-look, mate-polkit
+- wlogout, swaync
+
+## Terminal
+
+Zsh con configuración personalizada:
+
+- zsh
+- oh-my-zsh
+
+Plugins:
+
+- zsh-autosuggestions
+- zsh-syntax-highlighting
+- fzf-tab
+
+Tema:
+
+- powerlevel10k
+
+Archivos incluidos:
+
+- .zshrc
+- .p10k.zsh
+
+## CLI
+
+- neovim, fzf, zoxide
+- fastfetch, btop, inxi
+- yay
+- bat, duf, lsd, tldr
+- grim + slurp (screenshots)
+
+## Fuentes
+
+- JetBrainsMono Nerd Font
+- IosevkaTerm Nerd Font
+- OpenSans
+- DejaVu
