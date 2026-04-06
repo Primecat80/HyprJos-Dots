@@ -1,4 +1,4 @@
-# HyprJos-Dots
+# HyprJos-Dots #
 Setup Hyprland, simple y funcional.
 
 ![Screenshot 1](screenshots/1769293490_screenshot.png)
