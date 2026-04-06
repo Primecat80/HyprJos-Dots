@@ -46,9 +46,9 @@ Archivos incluidos:
 ## CLI
 
 - neovim, fzf, zoxide
-- fastfetch, btop, inxi
+- fastfetch, btop
 - yay
-- bat, duf, lsd, tldr
+- bat, lsd
 - grim + slurp (screenshots)
 
 ## Fuentes
